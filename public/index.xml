@@ -2,20 +2,1484 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rainbownight 个人小站</title>
-    <link>https://Rainbownight.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Rainbownight 个人小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Sun, 21 Jul 2024 15:58:00 +0800</lastBuildDate><atom:link href="https://Rainbownight.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jul 2024 15:58:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://Rainbownight.github.io/posts/test/</link>
+      <link>http://localhost:1313/posts/test/</link>
       <pubDate>Sun, 21 Jul 2024 15:58:00 +0800</pubDate>
       
-      <guid>https://Rainbownight.github.io/posts/test/</guid>
+      <guid>http://localhost:1313/posts/test/</guid>
       <description>测试 #这是百度官网
 这是粗体，这是斜体</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-08/0-volantis-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-08/0-volantis-test/</guid>
+      <description>&lt;!DOCTYPE html&gt; 本站主题Volantis的一些测试 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+本站主题Volantis的一些测试 发布于：2022年8月31日
+次了被人看过 虽然这些都是插件实现的，但是懒得区分了干脆都叫样式好了
+反正不搞前端
+话说啥是前端.jpg
+密码样式密码样式的文本：这里没有验证码
+span样式span是指张成的空间吗（
+WeLuvRainbow看起来似乎很像logo虽然确实就是个logoparameters属性可选值字体logo, code颜色red, yellow, green, cyan, blue, gray大小small, h4, h3, h2, h1, large, huge, ultra对齐方向left, center, rightNoteBlock / admonition /Callouts经典一点的样式我是朴实无华的引用块</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-08/a-220829-robotclub-diffusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-08/a-220829-robotclub-diffusion/</guid>
+      <description>&lt;!DOCTYPE html&gt; 中国矿业大学机器人俱乐部简介&amp;2022年招新 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+中国矿业大学机器人俱乐部简介&amp;2022年招新 安利 安利 发布于：2022年8月29日
+次了被人看过 安利一下矿大目前最强的电子、控制、机械领域的科创组织
+2022年招新QQ群加入俱乐部，将会与我有直接项目合作哟~码儿注意！
+加群时、后注意备注专业或学院以及姓名！
+预告二轮数据组考核不再走原先的数模路线，改走图像处理路线共两题，选做两题常见问题汇总TLDR，机器人俱乐部是啥？
+矿大机器人俱乐部是一个学生自管理的科创与竞赛组织。如果您甚至学过汉语，您还可以理解“俱乐部”的含义。
+俱乐部做哪些竞赛？
+电子、控制、机械领域的任何竞赛。俱乐部的优势竞赛包括全国大学生智能汽车竞赛（旧/简称飞卡）、工程赛、工训赛、电赛等。工程赛的发起人之一就是俱乐部指导老师之一徐桂云老师。
+实际上，成员会额外自行组织参加更多竞赛，如挑战杯、五一数模、数模国赛、数模美赛（好吧我承认后面两个是我在外单独搞的（不过我不介意指导你们备赛（（
+目前可公开的推荐成员培养路线本一入学准备多轮面试（今年为2轮）与前辈们交流含反馈环节地提高科创能力通过考核快速了解内部架构接受指导申报SRTP（大创项目），起点为国家级模拟答辩，改版申报书，改版PPT，习得项目竞标与管理基操本一SRTP申报完成总结回顾内部立项工程赛建议劳动节参加五一数模暑假卷一波电赛也不是不行工程赛结束总结回顾内部立项飞卡，接受各种培训，从此进入长期项目飞卡结束总结回顾，生成技术报告根据自身需要选择进入幕后，开始卷保研/考研/出国/……留在一线，技术进阶/写论文/申专利/……俱乐部管理严格吗？</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-08/a-220831-0dian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-08/a-220831-0dian/</guid>
+      <description>&lt;!DOCTYPE html&gt; 开环传递函数零点一定是闭环传递函数的零点吗？ - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+开环传递函数零点一定是闭环传递函数的零点吗？ 知识点控制理论 知识点 控制理论 发布于：2022年8月31日
+次了被人看过 本文转自知乎（转载日期2022-08-31）
+跳转到原文Q：开环传递函数零点一定是闭环传递函数的零点吗？
+A：如果是单位负反馈系统，那么是的。
+讨论这样的一个系统，如图：
+其中\(G(s)=\frac{N_1(s)}{D_1(s)}\)为前向传函，\(H(s)=\frac{N_2(s)}{D_2(s)}\)为反馈传函。
+那么开环传函为
+\[G(s)H(s)=\frac{N_1N_2}{D_1D_2}\]
+化简或用梅逊增益公式得闭环传函：
+\[\mathit{\Phi}=\frac{G}{1+GH}=\frac{\frac{N_1}{D_1}}{1+\frac{N_1N_2}{D_1D_2}}=\frac{N_1D_2}{N_1N_2+D_1D_2}\\\]
+所以闭环传函的零点来自于前向传函的零点和反馈传函的极点。
+如果系统为单位负反馈系统，即\(H=\frac{N_2}{D_2}=1\)，则：
+\[\mathit{\Phi}=\frac{N_1}{N_1+D_1}\\\]
+此时才有“闭环传函零点来自于开环传函零点”一说。
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-08/a-220831-kaoyan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-08/a-220831-kaoyan/</guid>
+      <description>&lt;!DOCTYPE html&gt; 2022考研经验与建议（附计划表、数一阴间公式和笔记、作文积累、自控阴间公式和笔记） - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+2022考研经验与建议（附计划表、数一阴间公式和笔记、作文积累、自控阴间公式和笔记） 经验之谈本科 经验之谈 本科 发布于：2022年8月31日
+次了被人看过 本文转自知乎（转载日期2022-08-31）
+跳转到原文阅前须知上岸浙大，先挂成绩：
+太菜了小小恰饭一波：有偿提供考研咨询、初试辅导、复试辅导、工科课程辅导等，长期需求从优~详情请联系QQ2066239878因为每个人有自己的特点，没有一个经验帖适合任何人，请先阅读本章内容。
+这里先放一波我的计划表：计划表。希望个人信息都已经去掉了吧，虽说没去掉也无所谓hhh
+以及标题说的数一阴间公式，数一笔记、作文积累、自控阴间公式、自控笔记。其中我的数一笔记不一定和你本人兼容。这些我都提供了OneNote文件，你大可开展属于你的更新。
+提取码都是2333。
+个人情况我本科就读中国矿业大学，专业是机器人工程，2018级。考的数一英一。
+我在10月开始有考研的想法，真正执行是在3月。其中2月列了一下计划。不过我并不是说这个时间就可以了，当然越早准备越好，具体看你目标院校。
+我比较习惯列计划表来跟进，加上要经常看网课（用的potplayer），笔记都用的OneNote，其中也会打一些公式（如果公式或画图太多，就直接写纸上了，如自控笔记），因此我考研是全程用电脑的。（当然还包括各种其他事，比如给部门开会，开项目组会，画板子，比赛blabla的）
+我前期（暑假前）都是在图书馆学的，后期（返校后）因为嫌电脑搬来搬去太麻烦了就在宿舍了。说实话在宿舍的效率很难保证，不建议冒这个风险。
+我数学基础不错，高数A1到A4分别考（非总评）80、100、89、80，线代考94，概率考98，但是弱智错误非常多，这一点到现在依然无解；英语一般，CET6457分；政治较差，几门考的在60-70之间；专业课是大三上上过的课，基础一般。
+辅助性建议饮食与建议我的作息是从11月就开始调整了的，我建议6-7点起，11-12点睡，保持这种作息直到初试结束即可，生物钟会让你毫无压力。如果你的考点非本校，那最好调到6点起11点睡，鬼知道到时候你去考点的路程有多少。（考点非本校的情况一般是考本省院校，且非考本校）
+话说如果怕自己早上起不来，可以把手机放床下，我前期就这样持续了几个月的5点50的闹铃（舍友点了个踩）。或者你可以把床篮挂脚边，手机放里面，这样起码按掉闹钟的时候是坐着的。</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-08/a-220831-psudoinv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-08/a-220831-psudoinv/</guid>
+      <description>&lt;!DOCTYPE html&gt; 广义逆、伪逆和左右逆是啥？有什么关系？ - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+广义逆、伪逆和左右逆是啥？有什么关系？ 知识点数学 知识点 数学 发布于：2022年8月31日
+次了被人看过 本文转自知乎（转载日期2022-08-31）
+跳转到原文结论
+伪逆是广义逆的特殊形式左逆和右逆都是伪逆的特殊形式当矩阵列满秩时，左逆存在且为伪逆；当矩阵行满秩时，右逆存在且为伪逆。广义逆（Generalized Inverse）\(A^-\)是\(A\)的伪逆，如果\(AA^-A=A\)。
+广义逆不唯一。
+Moore-Penrose逆定义\(X\) 是 \(A\) 的Moore-Penrose逆，如果：
+\(AXA=A\)\(XAX=X\)\((AX)^{\mathrm{H}} =AX\)\((XA)^{\mathrm{H}} =XA\)其中\((\cdot)^{\mathrm{H}}\)表示其Hermitian，即共轭转置\((\cdot)^{\mathrm{H}}=\bar{(\cdot)}^{\mathrm{T}}\)</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-08/a-220831-qigai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-08/a-220831-qigai/</guid>
+      <description>&lt;!DOCTYPE html&gt; 用路边乞丐知识推导∫dx/(xⁿ+1) - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+用路边乞丐知识推导∫dx/(xⁿ+1) 知识点数学 知识点 数学 发布于：2022年8月31日
+次了被人看过 本文转自知乎（转载日期2022-08-31）
+跳转到原文所以为啥公式环境一用align就自动编号（
+原来是要用\notag
+绪论(?)本文结果见：
+复数表达(式39)
+实数表达快速计算版(式67 68)
+实数表达丝滑版(式69)
+这几天跟新生们水群发现一个表情包
+我承认认真解释meme是挺无聊的，起初也就轻描淡写地表示这东西能用复数根分解+留数定理求。
+《轻描淡写地》
+于是当我打算顺便轻描淡写地给出解答的时候
+好像也不是那么简单，推了2个多小时……
+下面梳理一下求解过程。
+所需知识问了一个路边乞丐，他说下面这些知识点就够了（你说的这个乞丐▓▓▓▓▓▓）
+不定积分（不然你或许也不会点进来）
+复数的概念和欧拉公式
+\[e^{i\theta}=i\sin{\theta}+\cos{\theta}\\ \]
+（无重根）留数定理（无重根）留数定理是这样的： \[\begin{align}\prod_{k=1}^{n}\frac{1}{x-p_k}=\sum_{k=1}^{n}\frac{A_k}{x-p_k}\end{align}\\\]</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-08/a-220831-qiuni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-08/a-220831-qiuni/</guid>
+      <description>&lt;!DOCTYPE html&gt; 高斯求逆法可以用列变换吗？可以同时使用行列变换吗？ - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+高斯求逆法可以用列变换吗？可以同时使用行列变换吗？ 知识点数学 知识点 数学 发布于：2022年8月31日
+次了被人看过 本文转自知乎（转载日期2022-08-31）
+跳转到原文先来回忆一下行变换求逆的原理
+假设方阵\(A\)可逆，则存在可逆矩阵\(R\)使得
+\[\begin{align}RA=E\end{align}\\\]
+故
+\[A^{-1} =R\]
+而另一方面，\(R=RE=\)对\(E\)进行同样的行变换
+因此，不妨整一个增广矩阵
+\[\left[ A\ \ E \right] \]
+让\(A\)和\(E\)接受同样的行变换\(R\)，就可以得到
+\[[E\ \ R]=[E\ \ A^{-1}]\]</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-08/a-220831-sugger-diffusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-08/a-220831-sugger-diffusion/</guid>
+      <description>&lt;!DOCTYPE html&gt; 一个朋友的矿大科创QQ群 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+一个朋友的矿大科创QQ群 安利 安利 发布于：2022年8月31日
+次了被人看过 有本事正面扫我啊.jpg你可以在群里聊生活问选课找前辈你甚至可以聊科创
+项目竞赛论文啥的入群门槛你的猫图很好，不过现在是我的了
+群风气偏理工瞎几把聊我们不会吃了你所以有话就说偶尔乱丢红包群内禁止涩涩学术不端话题违禁话题注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-08/a-220831-Sugger-Diffusion/
+更新于：2022年10月9日
+CUMT
+墙裂推荐</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-08/a-220831-typesetting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-08/a-220831-typesetting/</guid>
+      <description>&lt;!DOCTYPE html&gt; 使用word轻松论文排版（毕业论文、专题报告、数学建模万用） - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+使用word轻松论文排版（毕业论文、专题报告、数学建模万用） 经验之谈科研 经验之谈 科研 发布于：2022年8月31日
+次了被人看过 本文转自bilibili（转载日期2022-08-31）
+跳转到视频地址样式改自科大样式集，经过2年使用与调整
+算了懒得重制了，直接去看视频吧，顺便三连一下谢谢（
+下次有时间整个矿大毕业论文word排版，懒人就能上手的那种
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-08/a-220831-typesetting/
+更新于：2022年10月9日
+科研
+排版
+科研 排版 浅浅吐槽中国矿业大学机电工程学院梁佳卉老师
+最近比较emo，来顺便吐槽这位重量级选手。本文系个人吐槽，仅适用于本人就读时期，请理性宽容对待周边的人们主观情绪滥用警告！在本文，本人或将难以始终保持一贯的理中客立场。若有不适请立...
+BadMATLAB!!
+本文转自CSDN（转载日期2022-08-31）跳转到原文你好骚啊引言其实是19年写的老程序了那个时候还顺便拿来练了一下GUI大概当时，是想做一个用于临床诊断光敏性癫.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-08/t-220831-badlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-08/t-220831-badlab/</guid>
+      <description>&lt;!DOCTYPE html&gt; BadMATLAB!! - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+BadMATLAB!! 实用小工具MATLAB 实用小工具 MATLAB 发布于：2022年8月31日
+次了被人看过 本文转自CSDN（转载日期2022-08-31）
+跳转到原文你好骚啊
+引言其实是19年写的老程序了
+那个时候还顺便拿来练了一下GUI
+大概当时，是想做一个用于临床诊断光敏性癫痫的视频生成器来着（（
+然后今天万能的群友就突然
+但是之前写的是基于GUIDE的，这玩意已经被MATLAB抛弃了，所以就随便改了改，高清重制成了MATLAB APP
+效果建议改名：虹 龙洞边缘检测版代码用户界面视频读取支持avi和mp4
+工作空间↑pics和tmp存放临时文件，mp4格式文件是待读取的视频文件，那个avi是处理出来的视频文件
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-08/t-220831-badlab/</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-08/t-220831-crossblabla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-08/t-220831-crossblabla/</guid>
+      <description>&lt;!DOCTYPE html&gt; 【MATLAB】生成骑缝章（png to png） - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+【MATLAB】生成骑缝章（png to png） 实用小工具MATLAB 实用小工具 MATLAB 发布于：2022年8月31日
+次了被人看过 本文转自CSDN（转载日期2022-08-31）
+跳转到原文其实实用意义不大，因为需要图片骑缝章的也不会来看这文章。可以拿来仅当做MATLAB学习。
+好家伙，为了一个水课作业，找了一个下午的免费生成骑缝章，不是不能用就是带水印，一气之下干脆用MATLAB写了个。
+不过仔细想想好像带水印也能用
+本程序仅支持为png批量添加来自png的骑缝章，输出也是png。
+先放代码，再放使用说明。
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-08/t-220831-footnote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-08/t-220831-footnote/</guid>
+      <description>&lt;!DOCTYPE html&gt; 【MATLAB】一键将参考文献中的标号转换为markdown脚注语法标号 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+【MATLAB】一键将参考文献中的标号转换为markdown脚注语法标号 实用小工具MATLAB 实用小工具 MATLAB 发布于：2022年8月31日
+次了被人看过 本文转自知乎（转载日期2022-08-31）
+跳转到原文绪论一样的东西最近用Obsidian记文献笔记的时候，发现能用脚注语法标记参考文献。在引用的时候只需要输入[^xxx]即可。
+但是写完后尬住了……原文的参考文献又不是md脚注语法的
+一个个改好累啊……
+于是用MATLAB写了个BUG，一键转换。
+使用效果展示待处理文本正文部分（左为编辑视图，右为阅读视图）脚注作参考文献部分（左为编辑视图，右为阅读视图）脚本界面展示属于是属于轻量级GUI了属于是复制进去的文本如果有换行，MATLAB会自动转换掉。
+配置选择你的参考文献标号类型（123. Blabla或[123] BlaBla）选择你的文本的标号是否是递增的（指+1关系）勾选上可以防止一些莫名其妙的错误输入你的参考文献数量的最大位数我觉得21世纪的论文参考文献应该不会超过999篇，填3就行了或者如果你有其他用途而需要用到更多位数，填你需要的就行。也是为了防止莫名其妙的错误防止莫名其妙的错误指懒得好好学正则。
+代码与细节说明有没有一种可能其实打开文件后也可以看到代码</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-08/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-08/test/</guid>
+      <description>&lt;!DOCTYPE html&gt; test - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+test 发布于：2022年8月22日
+次了被人看过 测试一下
+this document is just for test
+1 Heading 11.1 Heading 21.1.1 Heading 31.1.1.1 Heading 41.1.1.1.1 Heading 51.1.1.1.1.1 Heading 6?bold text
+italic text</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/a-220901-tsukkomi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/a-220901-tsukkomi/</guid>
+      <description>&lt;!DOCTYPE html&gt; 浅浅吐槽中国矿业大学机电工程学院梁佳卉老师 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+浅浅吐槽中国矿业大学机电工程学院梁佳卉老师 个人见解 个人见解 发布于：2022年9月1日
+次了被人看过 最近比较emo，来顺便吐槽这位重量级选手。
+本文系个人吐槽，仅适用于本人就读时期，请理性宽容对待周边的人们
+主观情绪滥用警告！在本文，本人或将难以始终保持一贯的理中客立场。若有不适请立刻关闭此页
+若此文能有幸被相关人士读到，希望不要陷入负面情绪泥潭，而是保持“有则改之无则加勉”的态度，这也是落笔本文的初衷
+本文不定期更新（实际上WIP），欢迎补充。
+严格的下班时间与薛定谔的上班时间每次年级大会都会强调，不要下班时间找她。
+其实单凭这一个观点是完全没有问题的，正如她所说的一样，辅导员也是人，我知晓、理解并尊重。
+问题在于态度。
+一方面，以强调下班时间的自由来做上班时间摸鱼的挡箭牌是可耻的，享受了争取过来的权利，是否应该更严格履行自己规定的义务？
+注意：典中典出没，请勿模仿！
+上班时间QQ联系，不回复。不小心下班时间追问，挨骂。上班时间QQ联系，不回复。下班时间收到回复。刚开始上班联系，不回复。上班时间追问，收到诸如“忘了”“刚上班还没进入状态”。快下班联系，不回复。在忙/疲惫/摸鱼时联系，不回复。本文没有任何反对摸鱼这一行为/思想/主义的意思，相反，本人双手双脚赞同摸鱼。另一方面，学生也是人，同样会有自己的各种事情，有时很难排除在她的工作时间外联系她的必要性。面对这类事，需要做的不一定总是上头并痛批学生半个小时，需要做的只有简单看一下内容或者不看，再动一动小手设为未读，静候工作时间或工作时间内自己能够回复的时间到来再统一打开回复即可。
+这并不是具体的“教”谁“做事”，而只是一种可行的、能缓解外部压力与内部压力的通用方案。想必希望将自己生活-工作矛盾安排得更合理的人们都愿意这么做，或者采取更加灵活一些的办法。
+生活-工作矛盾是每位上班人都需要直面的问题，但不能为了解决该问题罔顾学生合理自由，将上级压力往下级传递。辅导员更是如此，作为学生与管理层的枢纽，更为提倡的是做学生的良师益友，而非让人连话都不敢说的狮身人面像吧？
+体会一下梁老师的经典语录：
+我已经是社畜了
+拆机器人俱乐部，组盗版社团还需要吃瓜吗？我不想放了已经，怕外人以为我们喜欢天天搞内斗一样。</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/a-220902-math-modeling-cptts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/a-220902-math-modeling-cptts/</guid>
+      <description>&lt;!DOCTYPE html&gt; 数学建模赛事汇总 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+数学建模赛事汇总 信息与资料 信息与资料 发布于：2022年9月2日
+次了被人看过 介绍一些常见以及部分不常见的竞赛，包括名称、时间、官网与简介，顺序排列为从每学期开始至结束。
+其实是很早前写的，公众号发过但已弃坑，防止尴尬就不放链接了。
+国赛/高教社杯名称：高教社杯全国大学生数学建模竞赛，CUMCM
+时间：9月中旬的某个有♂趣的周末，周四20:00至周日20:00，3天
+官网：http://www.mcm.edu.cn/index_cn.html
+简介：
+国赛是在我国认可度最高的数学建模竞赛。题目对于本科生而言是最难的（深圳杯除外）。
+分为本科组与专科组，本科学生只能参加本科组，专科（高职高专）学生二者都可参加。本科组有A、B两题。
+参赛人数1~3，不可跨校报名。
+按2019年江苏赛区本科组的情况（被除数是队伍总量），国一1.020%，国二2.88%，省一6.60%，省二9.4%，省三11.2%。完成合格答卷的均可获得成功参赛奖。（有的赛区没设省三奖，而且不成功参赛的没数据）
+竞赛评奖以假设的合理性、建模的创造性、结果的正确性和文字表述的清晰程度为主要标准。
+报名费200元。
+研赛名称：中国研究生数学建模竞赛，NPGMCM
+时间：9月下旬，4天
+官网：https://cpipc.chinadegreaes.cn/cw/hp/4
+简介：
+听说难度大于国赛，没参加过，还是建议知乎一下。
+说不定开学可以参加一下
+参赛对象为在读研究生（硕士生、博士生）及已获研究生入学资格的应届本科毕业生。可以跨校报名（仅限研一）。
+原则上一、二、三等奖获奖数量，为参赛队总数的1.5%、13%和20%。
+报名费300元。
+亚太赛名称：亚太地区大学生数学建模竞赛，APMCM
+时间：11月下旬，4天
+官网：http://www.apmcm.org/</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-220902-ac-inferno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-220902-ac-inferno/</guid>
+      <description>&lt;!DOCTYPE html&gt; 自控阴间公式 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+自控阴间公式 笔记控制理论 笔记 控制理论 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+本文件同步2022考研经验与建议（附计划表、数一阴间公式和笔记、作文积累、自控阴间公式和笔记）发布。
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-220902-ac-inferno/
+更新于：2022年10月9日
+墙裂推荐
+控制理论
+考研
+墙裂推荐 控制理论 考研 《微机原理与接口技术》浙江大学出版社-笔记 &amp; 51单片机SFR表
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）volantis.js(&#34;https://unpkg.com/pandown&#34;).then(pandown)...
+数一阴间公式
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）本文件同步2022考研经验与建议（附计划表、数一阴间公式和笔记、作文积累、自控阴间公式和笔记）发布。vo...
+留言
+文章分类 个人见解(1) 信息与资料(6) 安利(2) 实用小工具(4) MATLAB(4) 知识点(4) 控制理论(1) 数学(3) 笔记(34) 人工智能(2) 控制理论(3) 数学(7) 机器人(7) 机械工程(6) 物理(2) 电子信息(4) 计算机(3) 经验之谈(3) 本科(1) 科研(2) 热门标签 CUMT G.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-220902-cumt-ppt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-220902-cumt-ppt/</guid>
+      <description>&lt;!DOCTYPE html&gt; 中国矿业大学PPT模板 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+中国矿业大学PPT模板 信息与资料 信息与资料 发布于：2022年9月2日
+次了被人看过 海星
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-220902-cumt-ppt/
+更新于：2022年10月9日
+CUMT
+生活
+CUMT 生活 希腊字母表
+英文字母表DLC（希腊字母\(\LaTeX\)代码\(\alpha\)\alpha\(\beta\)\beta\(\G...
+NCRE-4 嵌入式系统开发工程师资料
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）volantis.js(&#34;https://unpkg.com/pandown&#34;).then(pandown)...
+留言
+文章分类 个人见解(1) 信息与资料(6) 安利(2) 实用小工具(4) MATLAB(4) 知识点(4) 控制理论(1) 数学(3) 笔记(34) 人工智能(2) 控制理论(3) 数学(7) 机器人(7) 机械工程(6) 物理(2) 电子信息(4) 计算机(3) 经验之谈(3) 本科(1) 科研(2) 热门标签 CUMT G.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-220902-greeks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-220902-greeks/</guid>
+      <description>&lt;!DOCTYPE html&gt; 希腊字母表 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+希腊字母表 信息与资料 信息与资料 发布于：2022年9月2日
+次了被人看过 英文字母表DLC（
+希腊字母\(\LaTeX\)代码\(\alpha\)\alpha\(\beta\)\beta\(\Gamma\)\Gamma\(\gamma\)\gamma\(\epsilon\)\epsilon\(\varepsilon\)\varepsilon\(\zeta\)\zeta\(\Theta\)\Theta\(\theta\)\theta\(\vartheta\)\vartheta\(\eta\)\eta\(\iota\)\iota\(\kappa\)\kappa\(\Lambda\)\Lambda\(\lambda\)\lambda\(\mu\)\mu\(\nu\)\nu\(\Xi\)\Xi\(\xi\)\xi\(\omicron\)\omicron\(\Pi\)\Pi\(\pi\)\pi\(\varpi\)\varpi\(\rho\)\rho\(\varrho\)\varrho\(\Sigma\)\Sigma\(\sigma\)\sigma\(\varsigma\)\varsigma\(\tau\)\tau\(\Upsilon\)\Upsilon\(\upsilon\)\upsilon\(\Phi\)\Phi\(\phi\)\phi\(\varphi\)\varphi\(\chi\)\chi\(\Psi\)\Psi\(\psi\)\psi\(\Omega\)\Omega\(\omega\)\omega另，\(\varnothing\)(\varnothing),\(\emptyset\)(\emptyset)是挪威字母，\(\partial\)也不是希腊字母</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-220902-laplace-transform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-220902-laplace-transform/</guid>
+      <description>&lt;!DOCTYPE html&gt; 拉氏变换表 - WeLuvRainbow </description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-220902-math-cptts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-220902-math-cptts/</guid>
+      <description>&lt;!DOCTYPE html&gt; 数学竞赛资料 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+数学竞赛资料 信息与资料 信息与资料 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-220902-math-cptts/
+更新于：2022年10月9日
+数学
+竞赛
+数学 竞赛 矩阵论大杂烩
+本文内容来自浙大海院吴叶舟老师的矩阵论、MIT18.06、MIT18.065以及各种学习过程中记录的笔记。近两个月没怎么更新了，发现还是有很多地方可以改进的。欢迎交流与建议~本文同时还提...
+数学建模赛事汇总
+介绍一些常见以及部分不常见的竞赛，包括名称、时间、官网与简介，顺序排列为从每学期开始至结束。其实是很早前写的，公众号发过但已弃坑，防止尴尬就不放链接了。国赛/高教社杯名称：高教社...
+留言
+文章分类 个人见解(1) 信息与资料(6) 安利(2) 实用小工具(4) MATLAB(4) 知识点(4) 控制理论(1) 数学(3) 笔记(34) 人工智能(2) 控制理论(3) 数学(7) 机器人(7) 机械工程(6) 物理(2) 电子信息(4) 计算机(3) 经验之谈(3) 本科(1) 科研(2) 热门标签 CUMT G.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-220902-math-inferno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-220902-math-inferno/</guid>
+      <description>&lt;!DOCTYPE html&gt; 数一阴间公式 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+数一阴间公式 笔记数学 笔记 数学 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+本文件同步2022考研经验与建议（附计划表、数一阴间公式和笔记、作文积累、自控阴间公式和笔记）发布。
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-220902-math-inferno/
+更新于：2022年10月9日
+墙裂推荐
+考研
+数学
+线性代数
+高等数学
+概率论与数理统计
+墙裂推荐 考研 数学 线性代数 高等数学 概率论与数理统计 自控阴间公式
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）本文件同步2022考研经验与建议（附计划表、数一阴间公式和笔记、作文积累、自控阴间公式和笔记）发布。vo...
+向量微分与矩阵微分</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-220902-matrix-derivative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-220902-matrix-derivative/</guid>
+      <description>&lt;!DOCTYPE html&gt; 向量微分与矩阵微分 - WeLuvRainbow </description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-220902-mcu-zju/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-220902-mcu-zju/</guid>
+      <description>&lt;!DOCTYPE html&gt; 《微机原理与接口技术》浙江大学出版社-笔记 &amp; 51单片机SFR表 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+《微机原理与接口技术》浙江大学出版社-笔记 &amp; 51单片机SFR表 笔记电子信息 笔记 电子信息 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-220902-mcu-zju/
+更新于：2022年10月9日
+嵌入式
+嵌入式 NCRE-3 嵌入式系统开发技术资料
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）volantis.js(&#34;https://unpkg.com/pandown&#34;).then(pandown)...
+自控阴间公式
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）本文件同步2022考研经验与建议（附计划表、数一阴间公式和笔记、作文积累、自控阴间公式和笔记）发布。vo...
+留言
+文章分类 个人见解(1) 信息与资料(6) 安利(2) 实用小工具(4) MATLAB(4) 知识点(4) 控制理论(1) 数学(3) 笔记(34) 人工智能(2) 控制理论(3) 数学(7) 机器人(7) 机械工程(6) 物理(2) 电子信息(4) 计算机(3) 经验之谈(3) 本科(1) 科研(2) 热门标签 CUMT G.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-220902-ncre-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-220902-ncre-3/</guid>
+      <description>&lt;!DOCTYPE html&gt; NCRE-3 嵌入式系统开发技术资料 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+NCRE-3 嵌入式系统开发技术资料 信息与资料 信息与资料 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-220902-ncre-3/
+更新于：2022年10月9日
+嵌入式
+NCRE
+嵌入式 NCRE NCRE-4 嵌入式系统开发工程师资料
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）volantis.js(&#34;https://unpkg.com/pandown&#34;).then(pandown)...
+《微机原理与接口技术》浙江大学出版社-笔记 &amp; 51单片机SFR表
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）volantis.js(&#34;https://unpkg.com/pandown&#34;).then(pandown)...
+留言
+文章分类 个人见解(1) 信息与资料(6) 安利(2) 实用小工具(4) MATLAB(4) 知识点(4) 控制理论(1) 数学(3) 笔记(34) 人工智能(2) 控制理论(3) 数学(7) 机器人(7) 机械工程(6) 物理(2) 电子信息(4) 计算机(3) 经验之谈(3) 本科(1) 科研(2) 热门标签 CUMT G.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-220902-ncre-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-220902-ncre-4/</guid>
+      <description>&lt;!DOCTYPE html&gt; NCRE-4 嵌入式系统开发工程师资料 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+NCRE-4 嵌入式系统开发工程师资料 信息与资料 信息与资料 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-220902-ncre-4/
+更新于：2022年10月9日
+嵌入式
+NCRE
+嵌入式 NCRE 中国矿业大学PPT模板
+海星volantis.js(&#34;https://unpkg.com/pandown&#34;).then(pandown)NCRE-3 嵌入式系统开发技术资料
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）volantis.js(&#34;https://unpkg.com/pandown&#34;).then(pandown)...
+留言
+文章分类 个人见解(1) 信息与资料(6) 安利(2) 实用小工具(4) MATLAB(4) 知识点(4) 控制理论(1) 数学(3) 笔记(34) 人工智能(2) 控制理论(3) 数学(7) 机器人(7) 机械工程(6) 物理(2) 电子信息(4) 计算机(3) 经验之谈(3) 本科(1) 科研(2) 热门标签 CUMT G.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-cs-000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-cs-000/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-CS-000 网络安全 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-CS-000 网络安全 笔记计算机 笔记 计算机 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+这是第000号笔记才会出现的提示
+CUMT：中国矿业大学，China University of Mining and Technology
+CS：计算机科学与技术学院，School of Computer Science &amp;amp;Technology
+2020-2021版2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-cs-000/
+更新于：2022年10月9日</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-ee-000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-ee-000/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-EE-000 电工学 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-EE-000 电工学 笔记电子信息 笔记 电子信息 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+这是第000号笔记才会出现的提示
+CUMT：中国矿业大学，China University of Mining and Technology
+EE：电气工程学院，School of Electrical Engineering
+2019-2020版2020-2021版暂无，欢迎联系我投稿！
+2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-ee-000/
+更新于：2022年10月9日</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-000/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-000 机器人学导论（英语） - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-000 机器人学导论（英语） 笔记机器人 笔记 机器人 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+这是第000号笔记才会出现的提示
+CUMT：中国矿业大学，China University of Mining and Technology
+ME：机电工程学院，School of Mechatronic Engineering
+2020-2021版2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-000/
+更新于：2022年10月9日
+CUMT
+墙裂推荐</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-001/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-001 机器人专业导论 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-001 机器人专业导论 笔记机器人 笔记 机器人 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2021-2022版注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-001/
+更新于：2022年10月9日
+CUMT
+机器人
+CUMT 机器人 CUMT-ME-002 机械类专业导论
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-000 机器人学导论（英语）
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）这是第000号笔记才会出现的提示CUMT：中国矿业大学，China University of Mining a.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-002/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-002/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-002 机械类专业导论 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-002 机械类专业导论 笔记机械工程 笔记 机械工程 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2020-2021版2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-002/
+更新于：2022年10月9日
+CUMT
+机械工程
+CUMT 机械工程 CUMT-ME-003 机械设计
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-001 机器人专业导论
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2021-2022版volantis.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-003/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-003/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-003 机械设计 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-003 机械设计 笔记机械工程 笔记 机械工程 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2020-2021版2021-2022版注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-003/
+更新于：2022年10月9日
+CUMT
+机械工程
+CUMT 机械工程 CUMT-ME-004 移动机器人
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2021-2022版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-002 机械类专业导论
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-004/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-004/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-004 移动机器人 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-004 移动机器人 笔记机器人 笔记 机器人 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2021-2022版注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-004/
+更新于：2022年10月9日
+CUMT
+CUMT CUMT-ME-005 嵌入式系统
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2021-2022版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-003 机械设计
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+留言
+文章分类 个人见解(1) 信息与资料(6) 安利(2) 实用小工具(4) MATLAB(4) 知识点(4) 控制理论(1) 数学(3) 笔记(34) 人工智能(2) 控制理论(3) 数学(7) 机器人(7) 机械工程(6) 物理(2) 电子信息(4) 计算机(3) 经验之谈(3) 本科(1) 科研(2) 热门标签 CUMT G.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-005/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-005/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-005 嵌入式系统 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-005 嵌入式系统 笔记电子信息 笔记 电子信息 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2021-2022版注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-005/
+更新于：2022年10月9日
+CUMT
+嵌入式
+CUMT 嵌入式 CUMT-ME-006 人工智能与机器学习
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2021-2022版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-004 移动机器人
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2021-2022版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+留言</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-006/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-006/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-006 人工智能与机器学习 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-006 人工智能与机器学习 笔记人工智能 笔记 人工智能 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2021-2022版注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-006/
+更新于：2022年10月9日
+CUMT
+人工智能
+CUMT 人工智能 CUMT-ME-007 机器人机械设计
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2021-2022版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-005 嵌入式系统
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2021-2022版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+留言</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-007/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-007/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-007 机器人机械设计 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-007 机器人机械设计 笔记机器人 笔记 机器人 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2021-2022版注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-007/
+更新于：2022年10月9日
+CUMT
+机器人
+CUMT 机器人 CUMT-ME-008 工程图学A1 &amp; A2
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2017-2018版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-006 人工智能与机器学习
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2021-2022版volantis.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-008/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-008/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-008 工程图学A1 &amp; A2 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-008 工程图学A1 &amp; A2 笔记机械工程 笔记 机械工程 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2017-2018版2017-2018版暂无，欢迎联系我投稿！
+2019-2020版暂无，欢迎联系我投稿！
+2020-2021版暂无，欢迎联系我投稿！
+2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-008/
+更新于：2022年10月9日
+CUMT
+机械工程
+CUMT 机械工程 CUMT-ME-009 机械原理</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-009/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-009/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-009 机械原理 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-009 机械原理 笔记机械工程 笔记 机械工程 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2020-2021版2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-009/
+更新于：2022年10月9日
+CUMT
+机械工程
+CUMT 机械工程 CUMT-ME-010 机器人动力学与控制
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-008 工程图学A1 &amp; A2</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-010/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-010 机器人动力学与控制 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-010 机器人动力学与控制 实用小工具MATLAB笔记机器人 笔记 机器人 实用小工具 MATLAB 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2020-2021版我用机器人运动学做的BadApple：
+MATLAB源码如下（前置软件：BadMATLAB!!）
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-011/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-011/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-011 传感器与检测技术 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-011 传感器与检测技术 笔记电子信息 笔记 电子信息 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2020-2021版2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-011/
+更新于：2022年10月9日
+CUMT
+机械工程
+CUMT 机械工程 CUMT-ME-012 机器人系统与设计
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-010 机器人动力学与控制
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-012/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-012/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-012 机器人系统与设计 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-012 机器人系统与设计 笔记机器人 笔记 机器人 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2020-2021版2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-012/
+更新于：2022年10月9日
+CUMT
+机器人
+CUMT 机器人 CUMT-ME-013 液压与气动系统（中文）
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-011 传感器与检测技术
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-013/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-013 液压与气动系统（中文） - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-013 液压与气动系统（中文） 笔记机械工程 笔记 机械工程 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2020-2021版2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-013/
+更新于：2022年10月9日
+CUMT
+机械工程
+CUMT 机械工程 CUMT-ME-014 机器人前沿讲座
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-012 机器人系统与设计
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-014/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-014/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-014 机器人前沿讲座 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-014 机器人前沿讲座 笔记机器人 笔记 机器人 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2020-2021版2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-014/
+更新于：2022年10月9日
+CUMT
+机器人
+CUMT 机器人 CUMT-ME-015 数据结构与算法C
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2019-2020版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-013 液压与气动系统（中文）
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-015/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-015 数据结构与算法C - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-015 数据结构与算法C 笔记计算机 笔记 计算机 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2019-2020版2020-2021版暂无，欢迎联系我投稿！
+2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-015/
+更新于：2022年10月9日
+CUMT
+CUMT CUMT-ME-018 机械设计课程设计
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-014 机器人前沿讲座
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-016/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-016 材料力学 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-016 材料力学 笔记物理 笔记 物理 发布于：2022年9月1日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-01）
+2019-2020版2020-2021版暂无，欢迎联系我投稿！
+2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-016/
+更新于：2022年10月9日
+CUMT
+墙裂推荐
+物理
+力学
+CUMT 墙裂推荐 物理 力学 CUMT-ME-000 机器人学导论（英语）
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）这是第000号笔记才会出现的提示CUMT：中国矿业大学，China University of Mining a.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-017/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-017 计算方法B - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-017 计算方法B 笔记数学 笔记 数学 发布于：2022年9月1日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-01）
+2019-2020版2020-2021版暂无，欢迎联系我投稿！
+2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-017/
+更新于：2022年10月9日
+CUMT
+墙裂推荐
+数学
+CUMT 墙裂推荐 数学 CUMT-ME-016 材料力学
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-01）2019-2020版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-018/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-018 机械设计课程设计 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-018 机械设计课程设计 笔记机械工程 笔记 机械工程 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2020-2021版2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-018/
+更新于：2022年10月9日
+CUMT
+机械工程
+CUMT 机械工程 CUMT-ME-019 流体力学
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2019-2020版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...
+CUMT-ME-015 数据结构与算法C
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2019-2020版volantis.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-me-019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-me-019/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-ME-019 流体力学 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-ME-019 流体力学 笔记物理 笔记 物理 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2019-2020版2020-2021版暂无，欢迎联系我投稿！
+2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-me-019/
+更新于：2022年10月9日
+CUMT
+物理
+力学
+CUMT 物理 力学 CUMT-Pub-000 图像处理与学术研究
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）这是第000号笔记才会出现的提示CUMT：中国矿业大学，China University of Mining a.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-pub-000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-pub-000/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-Pub-000 图像处理与学术研究 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-Pub-000 图像处理与学术研究 笔记人工智能 笔记 人工智能 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+这是第000号笔记才会出现的提示
+CUMT：中国矿业大学，China University of Mining and Technology
+Pub：公选课或类似性质的课程，Public
+2020-2021版2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-pub-000/
+更新于：2022年10月9日
+CUMT
+科研
+图像处理
+CUMT 科研 图像处理 CUMT-Pub-001 C++</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-pub-001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-pub-001/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-Pub-001 C++ - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-Pub-001 C++ 笔记计算机 笔记 计算机 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2018-2019版2019-2020版暂无，欢迎联系我投稿！
+2020-2021版暂无，欢迎联系我投稿！
+2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-pub-001/
+更新于：2022年10月9日
+CUMT
+编程基础
+CUMT 编程基础 CUMT-Pub-002 概率论与数理统计
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2020-2021版volantis.js(&#34;https://unpkg.com/pandown&#34;).t...</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-cumt-pub-002/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-cumt-pub-002/</guid>
+      <description>&lt;!DOCTYPE html&gt; CUMT-Pub-002 概率论与数理统计 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+CUMT-Pub-002 概率论与数理统计 笔记数学 笔记 数学 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+2020-2021版2021-2022版暂无，欢迎联系我投稿！
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-cumt-pub-002/
+更新于：2022年10月9日
+CUMT
+概率论与数理统计
+CUMT 概率论与数理统计 ZJU-MOOC-000 现代控制理论
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）这是第000号笔记才会出现的提示ZJU：浙江大学，Zhejiang UniversityMOOC：大型开放式网...
+CUMT-Pub-001 C++
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）2018-2019版volantis.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-mit-1806-mit-18065/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-mit-1806-mit-18065/</guid>
+      <description>&lt;!DOCTYPE html&gt; MIT18.06 &amp; MIT18.065 笔记 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+MIT18.06 &amp; MIT18.065 笔记 笔记数学 笔记 数学 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+先和我大声喊：Gil老爷子牛逼！！！
+喊了才能下载喔
+18.06为线性代数课程，18.065为线性代数+优化+统计+机器学习课程
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-mit-1806-mit-18065/
+更新于：2022年10月9日
+墙裂推荐
+数学
+线性代数
+矩阵
+G. Strang
+墙裂推荐 数学 线性代数 矩阵 G.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-nwpu-mooc-000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-nwpu-mooc-000/</guid>
+      <description>&lt;!DOCTYPE html&gt; NWPU-MOOC-000 自动控制原理 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+NWPU-MOOC-000 自动控制原理 笔记控制理论 笔记 控制理论 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+这是第000号笔记才会出现的提示
+NWPU：西北工业大学，Northwestern Polytechnical University
+MOOC：大型开放式网络课程，Massive Open Online Courses
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-nwpu-mooc-000/
+更新于：2022年10月9日
+控制理论
+MOOC
+控制理论 MOOC CUMT-EE-000 电工学
+本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）这是第000号笔记才会出现的提示CUMT：中国矿业大学，China University of Mining a.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-09/n-zju-mooc-000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-09/n-zju-mooc-000/</guid>
+      <description>&lt;!DOCTYPE html&gt; ZJU-MOOC-000 现代控制理论 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+ZJU-MOOC-000 现代控制理论 笔记控制理论 笔记 控制理论 发布于：2022年9月2日
+次了被人看过 本文内容转自一个朋友的矿大科创QQ群公开群文件（转载日期2022-09-02）
+这是第000号笔记才会出现的提示
+ZJU：浙江大学，Zhejiang University
+MOOC：大型开放式网络课程，Massive Open Online Courses
+注意：本文内容遵循 CC BY-NC-SA 4.0 协议
+本文链接：http://rainbownight.gitee.io/2022-09/n-zju-mooc-000/
+更新于：2022年10月9日
+墙裂推荐
+控制理论
+数学推导
+MOOC
+墙裂推荐 控制理论 数学推导 MOOC NWPU-MOOC-000 自动控制原理</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2022-12/n-221228-matrix-th/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-12/n-221228-matrix-th/</guid>
+      <description>&lt;!DOCTYPE html&gt; 矩阵论大杂烩 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+矩阵论大杂烩 笔记数学 笔记 数学 发布于：2022年12月28日
+次了被人看过 本文内容来自浙大海院吴叶舟老师的矩阵论、MIT18.06、MIT18.065以及各种学习过程中记录的笔记。近两个月没怎么更新了，发现还是有很多地方可以改进的。欢迎交流与建议~
+本文同时还提供了PDF和markdown版本，可以戳这里到度娘网盘下载，提取码2333
+PDF生成使用Obsidian v1.0.0，主题Blue Topaz
+立个flag，考完我要把矩阵论和优化课的内容都缝合上去（（
+散装内容矩阵的四个空间列空间 Column Space （aka 值域 Range） \[C(A)=\left \{ y|y=Ax \right \} \] 零空间Nullspace （aka 解空间 Solution Space） \[N(A)=\left \{ x|Ax=0 \right \} \]</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2023-07/a-230713-pub-expshare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2023-07/a-230713-pub-expshare/</guid>
+      <description>&lt;!DOCTYPE html&gt; 综述录用经验分享 - WeLuvRainbow 抱歉，您的浏览器无法访问本站 本页面需要浏览器支持（启用）JavaScript 了解详情 &gt; 回到首页 文章 笔记 工具 更多 目录 标签 友链 关于 文章 笔记 工具 更多 目录 标签 友链 关于 WeLuvRainbow
+信息 ・ 知识 ・ 技术 ・ 共享
+文章
+笔记
+工具
+关于
+综述录用经验分享 经验之谈科研 经验之谈 科研 发布于：2023年7月13日
+次了被人看过 本文转自知乎（转载日期2023-07-13）
+跳转到原文过程记录2023-02-17 至 2023-05-16 (14 wks) 初稿+和老师改+提交
+2023-06-12 (4 wks) 2小修+1大修
+2023-06-30 (3 wks) 提交修改
+2023-07-12 (2 wks) AC
+流程确定或大致确定综述调研范畴（motive）
+被动确定：导师给定、项目要求等。
+主动确定：该领域的综述需求，比如某领域还没有综述或上一篇综述已经过去多年；或者该领域有最近的综述，但是从某个视角分类/应用还有调研的必要。
+初步收集文献（1st wk）</description>
       
     </item>
     

@@ -3,25 +3,190 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://Rainbownight.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-07-21T15:58:00+08:00</lastmod>
   </url>
   <url>
-    <loc>https://Rainbownight.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-21T15:58:00+08:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://Rainbownight.github.io/en/"
+      href="http://localhost:1313/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://Rainbownight.github.io/"
+      href="http://localhost:1313/"
     />
   </url>
   <url>
-    <loc>https://Rainbownight.github.io/posts/test/</loc>
+    <loc>http://localhost:1313/posts/test/</loc>
     <lastmod>2024-07-21T15:58:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-08/0-volantis-test/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-08/a-220829-robotclub-diffusion/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-08/a-220831-0dian/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-08/a-220831-kaoyan/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-08/a-220831-psudoinv/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-08/a-220831-qigai/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-08/a-220831-qiuni/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-08/a-220831-sugger-diffusion/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-08/a-220831-typesetting/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-08/t-220831-badlab/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-08/t-220831-crossblabla/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-08/t-220831-footnote/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-08/test/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/a-220901-tsukkomi/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/a-220902-math-modeling-cptts/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-220902-ac-inferno/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-220902-cumt-ppt/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-220902-greeks/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-220902-laplace-transform/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-220902-math-cptts/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-220902-math-inferno/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-220902-matrix-derivative/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-220902-mcu-zju/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-220902-ncre-3/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-220902-ncre-4/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-cs-000/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-ee-000/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-000/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-001/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-002/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-003/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-004/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-005/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-006/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-007/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-008/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-009/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-010/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-011/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-012/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-013/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-014/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-015/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-016/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-017/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-018/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-me-019/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-pub-000/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-pub-001/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-cumt-pub-002/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-mit-1806-mit-18065/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-nwpu-mooc-000/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-09/n-zju-mooc-000/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2022-12/n-221228-matrix-th/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2023-07/a-230713-pub-expshare/</loc>
   </url>
 </urlset>
