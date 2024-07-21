@@ -1,4 +1,5 @@
 baseURL = 'https://Rainbownight.github.io/'
 languageCode = 'zh-cn'
-title = 'My New Hugo Site'
+defaultContentLanguage = 'zh-cn'
+title = 'Rainbownight 个人小站'
 theme = 'blowfish'
